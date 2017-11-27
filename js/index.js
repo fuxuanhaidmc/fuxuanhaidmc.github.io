@@ -10,7 +10,7 @@
     			loop: true,
     			autoplay:1000,
 				pagination: '.swiper-pagination',
-				// centeredSlides:true,/*默认第一块居左，设置为true后则是居中显示*/  
+				centeredSlides:true,/*默认第一块居左，设置为true后则是居中显示*/  
 				coverflow:{  
 					rotate:30,/*3d旋转角度设置为30度*/  
 					stretch:10,/*每个slide之间的拉伸值，值越大靠得越近*/  
