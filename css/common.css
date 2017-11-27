@@ -1,0 +1,125 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 16px;
+}
+html,body{
+	width: 100%;
+	overflow-x: hidden;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #313131;
+}
+.head a:hover{
+	color: #df3870;	
+}
+.select{
+	color: #df3870;
+}
+.dsn{
+	display: none;
+}
+/*头部*/
+.head{
+	height: 80px;
+	width: 1180px;
+	margin: 0 auto;
+	line-height: 80px;
+	background: #ffffff;
+	position: relative;
+
+}
+.bor_bottom{
+	width: 100%;
+	border-bottom: 1px solid #EEEEEE;
+}
+.head .head_logo{
+	width: 179px;
+	height:55px;
+	vertical-align: middle;
+	position: absolute;
+	margin-left: 0px;
+	margin-top: 7px;
+}
+.head ul{
+	width: 100%;
+	display: inline-block;
+	height: 80px;
+	line-height: 80px;
+	vertical-align: middle;
+	margin-left: 604px;
+	overflow: hidden;
+}
+.head ul li{
+	float: left;
+	color: #333333;
+	margin-right: 56px;
+	letter-spacing: 0;
+}
+.head ul li a{
+	display: block;
+	
+}
+.head_code{
+	width: 120px;
+	height: 40px;
+	line-height: 40px;
+	position: absolute;
+	border: 1px solid #E5E5E5;
+	text-align: center;
+	margin-top:-60px;
+	right: 0;
+}
+
+.head img:nth-child(4){
+	position: absolute;
+	right: 0;
+	margin-top: -18px;
+	z-index: 999;
+}
+/*尾部*/
+.foot{
+	/*min-width: 1600px;*/
+	height: 180px;
+	background: #333333;
+	color: #ffffff;
+	overflow: hidden;
+}
+.foot_content{
+	width: 1180px;
+	height: 100%;
+	margin: 0 auto;
+	position: relative;
+}
+.foot .logo{
+	float:left;
+	margin-top: 40px;
+}
+.logo p{
+	font-size: 12px;
+	margin-top: 5px;
+}
+.foot a{
+	color: #ffffff;
+}
+.foot ul{
+	float: left;
+	margin-left:170px;
+	height: 80px;
+	line-height: 80px;
+	font-size: 18px;
+	margin-top: 40px;
+}
+.foot ul li{
+	float: left;
+	margin-right: 50px;
+}
+.code{
+	position: absolute;
+	right: -40px;top: 20px;
+}

@@ -1,0 +1,77 @@
+
+.content{
+	width: 420px;
+	margin: auto;
+}
+.car_title{
+	height: 50px;
+	line-height: 50px;
+	font-size: 28px;
+	color: #333333;	
+	text-align: center;
+	margin-top:30px;
+}
+.car_form p{
+	height: 50px;
+	line-height: 50px;
+	margin-bottom: 20px;
+} 
+.car_form p span{
+	display: inline-block;
+	width: 80px;
+	height: 50px;
+	vertical-align: middle;
+	color: #333333;
+	text-align: right;
+	margin-right: 20px;
+}
+select{
+	width: 320px;
+	height: 50px;
+	border: 1px solid #E5E5E5;
+	vertical-align: middle;
+	padding-left: 15px;
+	line-height: 50px;
+}
+option{
+	padding: 10px 0;
+}
+input{
+	width: 320px;
+	height: 50px;
+	border: 1px solid #E5E5E5;
+	vertical-align: middle;
+	padding-left: 15px;
+}
+input[type="file"]{
+	width:133px;
+	height: 50px;
+	position: absolute;
+	opacity: 0;
+}
+.car_form p .upload{
+	width:133px;
+	height: 50px;
+	line-height: 50px;
+	display: inline-block;
+	text-align: center;
+	background: #FFFFFF;
+	border: 1px solid #E5E5E5;
+}
+button{
+	width: 240px;
+	height: 50px;
+	background: #DE336C;
+	border-radius: 4px;
+	color: #FFFFFF;
+	margin: auto;
+	display: block;
+	border: none;
+	margin-bottom:100px ;
+}
+.prompt{
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	color: #FF2626;
+}

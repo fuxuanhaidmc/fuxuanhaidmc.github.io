@@ -1,0 +1,126 @@
+.content{
+	width: 1180px;
+	margin:auto;
+}
+.lease h1,.loan .happy{
+	width:480px;
+	height: 47px;
+	margin: auto;
+	line-height: 47px;
+	font-size: 28px;
+	color: #333333;
+	font-weight: normal;
+	margin-top:60px ;
+	
+	text-align: center;
+}
+.loan h1{
+	background: url(../img/kaixindai.png) no-repeat;
+}
+.lease p,.loan p{
+	width: 960px;
+	color: #2A2A2A;
+	text-indent: 2em;
+	margin: auto;
+	margin-top: 30px;
+	
+}
+.plan{
+	height: 510px;
+	margin-top: 60px;
+	display: flex;
+	justify-content: space-between;
+}
+/*贷款方案*/
+.plans{
+	width: 580px;
+	margin-left: 20px;
+	background: #FFFFFF;
+	border: 1px solid #EEEEEE;
+	box-shadow: 0 4px 4px 0 rgba(0,0,0,0.10);
+}
+.plan-title{
+	width: 96px;
+	height: 33px;
+	line-height: 33px;
+	font-size: 24px;
+	color: #212121;
+	text-align: center;
+	margin: auto;
+	margin-top: 40px;
+	font-weight: normal;
+}
+.plans p{
+	width: 480px;
+	height: 66px;
+	font-size: 16px;
+	color: #666666;
+	line-height: 22px;
+	margin: auto;
+	margin-top: 24px;
+}
+.plans img{
+	
+	display: block;
+	margin: auto;
+	margin-top: 56px;
+	
+}
+.store{
+	
+}
+.store h1,.phone h1{
+	width: 112px;
+	height: 47px;
+	margin: auto;
+	margin-top: 100px;
+	font-size: 28px;
+	color: #333333;
+	font-weight: normal;
+}
+.city{
+	width: 1180px;
+	height: 380px;
+	border: 1px solid #EEEEEE;
+	box-shadow: 0 4px 4px 0 rgba(0,0,0,0.10);
+	margin-top: 40px;
+}
+.phone>div{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 30px;
+	margin-bottom: 140px;
+}
+.phones{
+	width: 574px;
+	height: 380px;
+	border: 1px solid #EEEEEE;
+	box-shadow: 0 4px 4px 0 rgba(0,0,0,0.10);
+	padding:15px 0 0 24px;
+}
+.phone-title{
+	height: 30px;
+	line-height: 30px;
+	font-size: 18px;
+	color: #333333;
+}
+.phone-detail{
+	font-size: 16px;
+    color: #888888;
+}
+.phone-li{
+	margin-bottom: 20px;
+}
+
+/* .happy{
+	width: 481px;
+	height: 42px;
+	background: url(../img/kaixindai.png) no-repeat;
+	font-size: 32px;
+	line-height: 64px;
+	text-align: center;
+	margin: auto;
+	margin-top: 80px;
+	color: #212121;
+	font-weight: normal;
+} */

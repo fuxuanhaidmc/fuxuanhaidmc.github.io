@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		
+	</body>
+	<script src="js/lib/jquery-3.2.1.min.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		$.ajax({
+				type:"get",//请求方式
+				url:"goodDetail.json",//请求网址(接口)
+				async:true,//是否异步加载
+				dataType:'json',//后台返回数据的类型
+				data:{},
+				success:function(data){
+					var obj = data;
+					console.log(obj);
+					console.log(obj.goodList[1].brand);
+				}
+			});
+
+	</script>
+</html>

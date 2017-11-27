@@ -1,0 +1,23 @@
+{
+ "goodList":[
+  {"id":1,"imgUrl":"NISSANsun.png","brand":"东风日产","title":"阳光1.5舒适版","guidePrice":"89800","firstPay1":"8980","monthPay1":"2398","firstPay3":"8980","monthPay3":"2398","pay1calc":"12500","pay3calc":"13000"},
+  {"id":2,"imgUrl":"K2.png","brand":"东风悦达起亚","title":"17款 K2 1.4三厢GLS AT","guidePrice":"88900","firstPay1":"9980","monthPay1":"2898","firstPay3":"9980","monthPay3":"2669","pay1calc":"12500","pay3calc":"13000"},
+  {"id":3,"imgUrl":"fute_furuisi.png","brand":"福特","title":"福睿斯1.5自动舒适版","guidePrice":"107800","firstPay1":"9980","monthPay1":"2498","firstPay3":"9980","monthPay3":"2798","pay1calc":"12500","pay3calc":"13000"},
+  {"id":4,"imgUrl":"xuanyi.png","brand":"东风日产","title":"经典轩逸1.6自动舒适版","guidePrice":"109800","firstPay1":"9980","monthPay1":"2498","firstPay3":"9980","monthPay3":"2798","pay1calc":"12500","pay3calc":"13000"},
+  {"id":5,"imgUrl":"K3.png","brand":"东风悦达起亚","title":"起亚K3自动GL天窗版","guidePrice":"109800","firstPay1":"9980","monthPay1":"2998","firstPay3":"9980","monthPay3":"2998","pay1calc":"12500","pay3calc":"13000"},
+  {"id":6,"imgUrl":"K2.png","brand":"东风日产","title":"经典轩逸1.6自动领先版","guidePrice":"112300","firstPay1":"10980","monthPay1":"2798","firstPay3":"10980","monthPay3":"2898","pay1calc":"12500","pay3calc":"13000"},
+  {"id":7,"imgUrl":"langyi.png","brand":"上汽大众","title":"17款 朗逸1.6自动风尚版","guidePrice":"121900","firstPay1":"12000","monthPay1":"3698","firstPay3":"12000","monthPay3":"3598","pay1calc":"12500","pay3calc":"13000"},
+  {"id":8,"imgUrl":"lingpai.png","brand":"广汽本田","title":"16款 凌派 1.8自动舒适版","guidePrice":"124800","firstPay1":"12500","monthPay1":"3998","firstPay3":"12500","monthPay3":"3798","pay1calc":"12500","pay3calc":"13000"},
+  {"id":9,"imgUrl":"fute_fukesi.png","brand":"福特","title":"17款 福克斯两厢 1.6自动舒适型智行版","guidePrice":"126800","firstPay1":"12600","monthPay1":"3498","firstPay3":"12600","monthPay3":"3498","pay1calc":"12500","pay3calc":"13000"},
+  {"id":10,"imgUrl":"bieke_yinglang.png","brand":"别克","title":"英朗1.5自动精英版","guidePrice":"126900","firstPay1":"12600","monthPay1":"2998","firstPay3":"12600","monthPay3":"3298","pay1calc":"12500","pay3calc":"13000"},
+  {"id":11,"imgUrl":"gs4.png","brand":"广汽传祺","title":"17款 GS4 1.5T 自动两驱精英版","guidePrice":"133800","firstPay1":"13500","monthPay1":"3998","firstPay3":"13500","monthPay3":"3998","pay1calc":"12500","pay3calc":"13000"},
+  {"id":12,"imgUrl":"langyi.png","brand":"上汽大众","title":"17款 朗逸 1.6自动舒适版","guidePrice":"136900","firstPay1":"19800","monthPay1":"3998","firstPay3":"19800","monthPay3":"3798","pay1calc":"12500","pay3calc":"13000"},
+  {"id":13,"imgUrl":"angkesaila.png","brand":"长安马自达","title":"17款 昂克赛拉 三厢 1.5自动豪华版","guidePrice":"139900","firstPay1":"19800","monthPay1":"4298","firstPay3":"19800","monthPay3":"4298","pay1calc":"12500","pay3calc":"13000"},
+  {"id":14,"imgUrl":"suteng.png","brand":"一汽大众","title":"17款速腾 1.6自动舒适型气帘包版","guidePrice":"152800","firstPay1":"19800","monthPay1":"4198","firstPay3":"19800","monthPay3":"4398","pay1calc":"12500","pay3calc":"13000"},
+  {"id":15,"imgUrl":"mairuibao.png","brand":"雪佛兰","title":"迈锐宝1.5T自动舒适版","guidePrice":"164900","firstPay1":"19800","monthPay1":"3698","firstPay3":"19800","monthPay3":"3998","pay1calc":"12500","pay3calc":"13000"},
+  {"id":16,"imgUrl":"K5.png","brand":"东风悦达起亚","title":"16款 K5 2.0自动LUX","guidePrice":"175800","firstPay1":"19800","monthPay1":"4498","firstPay3":"19800","monthPay3":"4898","pay1calc":"12500","pay3calc":"13000"},
+  {"id":17,"imgUrl":"angkewei.png","brand":"别克","title":"昂科威1.5T自动两驱精英型","guidePrice":"219900","firstPay1":"21990","monthPay1":"5498","firstPay3":"19800","monthPay3":"5998","pay1calc":"12500","pay3calc":"13000"},
+  {"id":18,"imgUrl":"junyue.png","brand":"别克","title":"君越1.5T精英型","guidePrice":"239800","firstPay1":"23980","monthPay1":"5998","firstPay3":"19800","monthPay3":"6498","pay1calc":"12500","pay3calc":"13000"},
+  {"id":19,"imgUrl":"atsl.png","brand":"凯迪拉克","title":"凯迪拉克ATSL2.0T技术型","guidePrice":"298800","firstPay1":"29880","monthPay1":"6998","firstPay3":"19800","monthPay3":"7398","pay1calc":"12500","pay3calc":"13000"}
+ ]
+}

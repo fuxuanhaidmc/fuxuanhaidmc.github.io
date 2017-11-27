@@ -1,0 +1,248 @@
+
+
+
+.content{
+	width: 1180px;
+	margin: auto;
+}
+/*轮播*/
+.swiper-container{
+	height: 460px;
+}
+.swiper-slide img{
+	/* position: absolute;
+	left: -12.5rem /* 200/16 */ 
+	width: 100%;
+	height: 460px;
+}
+/**/
+.virtue{
+	margin: auto;
+	width: 1080px;
+	margin-top: 53.5px;
+	display: flex;
+	flex-flow: row wrap;
+  	align-content: flex-start;
+    justify-content: space-between;
+}
+.virtue li{
+	width: 80px;
+	height: 115px;
+}
+.virtue p{
+	text-align: center;
+	font-size: 18px;
+	height: 25px;
+	line-height: 25px;
+	margin-top: 10px;
+}
+/*介绍*/
+.introduce .happy{
+	width: 481px;
+	height: 42px;
+	background: url(../img/kaixindai.png) no-repeat;
+	font-size: 32px;
+	line-height: 64px;
+	text-align: center;
+	margin: auto;
+	margin-top: 80px;
+	color: #212121;
+	font-weight: normal;
+}
+.happy-detail{
+	width: 960px;
+	height: 44px;
+	line-height: 22px;
+	margin: auto;
+	margin-top: 30px;
+	color: #666666;
+}
+/*方案*/
+.plan{
+	height: 510px;
+	margin-top: 60px;
+	display: flex;
+	justify-content: space-between;
+}
+.plans{
+	width: 580px;
+	margin-left: 20px;
+	background: #FFFFFF;
+	border: 1px solid #EEEEEE;
+	box-shadow: 0 4px 4px 0 rgba(0,0,0,0.10);
+}
+.plan-title{
+	width: 96px;
+	height: 33px;
+	line-height: 33px;
+	font-size: 24px;
+	color: #212121;
+	text-align: center;
+	margin: auto;
+	margin-top: 40px;
+}
+.plans p{
+	width: 480px;
+	height: 66px;
+	font-size: 16px;
+	color: #666666;
+	line-height: 22px;
+	margin: auto;
+	margin-top: 24px;
+}
+.plans img{
+	
+	display: block;
+	margin: auto;
+	margin-top: 56px;
+	
+}
+.buy{
+	width: 240px;
+	height: 48px;
+	line-height: 48px;
+	text-align: center;
+	background: #DE336C;
+	border-radius: 4px;
+	font-size: 18px;
+	color: #FFFFFF;
+	margin: auto;
+	margin-top: 56px;
+}
+
+
+
+
+/*热门车型*/
+.model{
+	
+}
+.car-list{
+	width: 1180px;
+	display: flex;
+	flex-flow: row wrap;
+  	align-content: flex-start;
+    justify-content: space-between;
+	margin-top: 60px;
+	box-sizing: border-box;
+	
+}
+.car-list li{
+	background: #FFFFFF;
+	border: 1px solid #EEEEEE;
+	width: 380px;
+	height: 310px;
+	margin-bottom: 20px;
+	background: #FFFFFF;
+	border: 1px solid #E5E5E5;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.10);
+
+}
+.model h1{
+	text-align: center;
+	width: 311px;
+	height: 42px;
+	margin: auto;
+	margin-top: 105px;
+	background: url(../img/remenchexing.png) no-repeat;
+	line-height: 60px;
+	font-size: 32px;
+	color: #212121;
+	font-weight: normal;
+}
+.model img{
+	display: block;
+	width: 380px;
+	height: 218px;
+	padding: 30px;
+	
+}
+.corner{
+	display: block;
+	width:72px;
+	height: 72px;
+	background: url(../img/home_Label.png) no-repeat;
+	color: #ffffff;
+	text-align: center;
+	line-height: 36px;
+	position: absolute;
+	margin-left: 308px;
+}
+.car-name{
+	height: 30px;
+	line-height: 30px;
+	margin-left: 20px;
+	margin-top: 10px;
+	font-size: 18px;
+	color: #212121;
+}
+.car-type{
+	height: 30px;
+	line-height: 30px;
+	margin-left: 20px;
+	/*margin-top: 10px;*/
+	font-size: 14px;
+	color: #212121;
+}
+.type-color{
+	font-size: 18px;
+	color:#DE336C;
+}
+.type-border{
+	font-size: 18px;
+	color: #e5e5e5;
+}
+/*购车流程*/
+.process{
+	
+}
+.process h1{
+	width: 451px;
+	height: 42px;
+	background: url(../img/goucheliucheng.png) no-repeat;
+	margin: auto;
+	margin-top: 100px;
+	font-size: 32px;
+	font-weight: normal;
+	line-height: 60px;
+	text-align: center;
+}
+.process ul{
+	width: 1180px;
+	display: flex;
+	flex-flow: row wrap;
+  	align-content: flex-start;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.process ul li div{
+	width: 80px;
+}
+.process ul p{
+	width: 80px;
+	font-size: 18px;
+	text-align: center;
+}
+.left{
+	display: inline-block;
+	width: 14px;
+	height: 25px;
+	background: url(../img/jiantou.png) no-repeat;
+	position: absolute;
+	margin-top: -80px;
+	margin-left: 170px;
+}
+.will{
+	display: block;
+	width: 240px;
+	height: 50px;
+	line-height: 50px;
+	margin: auto;
+	margin-top:40px;
+	background: #DE336C;
+	border-radius: 4px;
+	color: #ffffff;
+	text-align: center;
+	font-size: 18px;
+	margin-bottom: 100px;
+}
