@@ -9,11 +9,21 @@
 .swiper-container{
 	height: 460px;
 }
-.swiper-slide img{
+.swiper-slide{
+	text-align: center;
+}
+/* .swiper-slide img{
 	/* position: absolute;
 	left: -12.5rem /* 200/16 */ 
-	width: 100%;
+	/* width: 100%; */
+	/* height: 460px; */
+/* } */
+.swiper-slide .images{
+	/* position: absolute;
+	left: -12.5rem /* 200/16 */ 
+	/* width: 100%; */
 	height: 460px;
+	background: url("../img/lunbo.png") center no-repeat;
 }
 /**/
 .virtue{

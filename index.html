@@ -34,10 +34,12 @@
 	<div class="swiper-container">
 		<div class="swiper-wrapper">
 			<div class="swiper-slide">
-				<img src="img/lunbo.png" />
+				<!-- <img src="img/lunbo.png" /> -->
+				<div class="images"></div>
 			</div>
 			<div class="swiper-slide">
-				<img src="img/lunbo.png" />
+				<!-- <img src="img/lunbo.png" /> -->
+				<div class="images"></div>
 			</div>
 		</div>
 		<div class="swiper-pagination"></div>
@@ -81,12 +83,12 @@
 				</div>
 			</div> -->
 			<div class="buy">我要买车&gt;</div>
-		
+
 		</div>
 		<div class="model">
 			<h1>热门车型</h1>
 			<ul class="car-list">
-			
+
 			</ul>
 		</div>
 		<div class="process">
@@ -152,19 +154,21 @@
 
 <script id="tempindex" type="text/html">
 	{{each goodList}}
-	<li>
-		<span class="corner">
-			<p>热销</p>
-			<p>HOT</p>
-		</span>
-		
-		<img src="img/{{$value.imgUrl}}" alt="{{$value.brand}}" />
-		<p class="car-name">{{$value.brand}}&nbsp{{$value.title}}</p>
-		<p class="car-type">首付&nbsp;&nbsp;
-			<span class="type-color">{{$value.shoufu}}万</span>&nbsp;&nbsp;
-			<span class="type-border">|</span>&nbsp;&nbsp;月供
-			<span>{{$value.monthPay1}}</span>
-		</p>
+	<li index="{{$value.id}}">
+		<a href="detail.html?id={{$value.id}}">
+			<span class="corner">
+				<p>热销</p>
+				<p>HOT</p>
+			</span>
+
+			<img src="img/{{$value.imgUrl}}" alt="{{$value.brand}}" />
+			<p class="car-name">{{$value.brand}}&nbsp{{$value.title}}</p>
+			<p class="car-type">首付&nbsp;&nbsp;
+				<span class="type-color">{{$value.shoufu}}万</span>&nbsp;&nbsp;
+				<span class="type-border">|</span>&nbsp;&nbsp;月供
+				<span>{{$value.monthPay1}}</span>
+			</p>
+		</a>
 	</li>
 	{{/each}}
 

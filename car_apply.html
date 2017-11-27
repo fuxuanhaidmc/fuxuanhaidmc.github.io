@@ -21,46 +21,46 @@
 		</div>
 		<div class="content">
 			
-			<from class="car_form" method="get">
+			<form class="car_form" method="get">
 				<p>
 					<span>车型</span><!--
-					--><input type="text" placeholder="请在此输入车型" />
+					--><input type="text" placeholder="请在此输入车型"  name="Models" id="Models"/>
 				</p>
 				<p>
 					<span>购车方案</span><!--
-					--><select name="" id="">
+					--><select name="print" id="">
 						<option value="sel" selected="selected" disabled="disabled">请选择</option>
-						<option value="1">1</option>
-						<option value="1">1</option>
+						<option value="1">开心一号</option>
+						<option value="1">开心三号</option>
 					</select>
 				</p>
 				<p>
 					<span>姓名</span><!--
-					--><input type="text" placeholder="请输入您的姓名" />
+					--><input type="text"  name="username" placeholder="请输入您的姓名" />
 				</p>
 				<p>
 					<span>手机号码</span><!--
-					--><input type="phone" placeholder="请输入您的手机号码" />
+					--><input type="phone" name="phone" placeholder="请输入您的手机号码" />
 				</p>
 				<p>
 					<span>身份证号码</span><!--
-					--><input type="text"  placeholder="请输入您的身份证号码"/>
+					--><input type="text"  name="identity" placeholder="请输入您的身份证号码"/>
+				</p>
+				<!-- <p>
+					<span>身份证照片</span>
+					<input type="file" />
+				<span class="upload">点击上传</span>
+				
 				</p>
 				<p>
-					<span>身份证照片</span><!--
-					--><input type="file" /><!--
-					--><span class="upload">点击上传</span>
-					<!--<img src="" alt="" />-->
+					<span>驾驶证号码</span>
+					<input type="text" placeholder="请输入您的驾驶证号码" />
 				</p>
 				<p>
-					<span>驾驶证号码</span><!--
-					--><input type="text" placeholder="请输入您的驾驶证号码" />
-				</p>
-				<p>
-					<span>驾驶证照片</span><!--
-					--><input type="file" /><!--
-					--><span class="upload">点击上传</span>	
-				</p>
+					<span>驾驶证照片</span>
+					<input type="file" />
+					<span class="upload">点击上传</span>	
+				</p> -->
 				<p>
 					<span>银行卡卡号</span><!--
 					--><input type="text" placeholder="请输入您的银行卡卡号" />
@@ -69,9 +69,11 @@
 					<span>所在城市</span><!--
 					--><input type="text" placeholder="请输入您所在的城市" />
 				</p>
-			</from>
-			<div class="prompt">提示</div>
-			<button>提交申请</button>
+				<div class="prompt">提示</div>
+				<button   type="submit" id="subm">提交申请</button>
+			</form>
+			<!-- <div class="prompt">提示</div>
+			<button id="subm">提交申请</button> -->
 		</div>
 		<div class="foot">
 			<div class="foot_content">
@@ -102,4 +104,5 @@
 	</body>
 	<script src="js/lib/jquery-3.2.1.min.js"></script>
 	<script src="js/lib/common.js"></script>
+	<script src="js/car_apply.js"></script>
 </html>

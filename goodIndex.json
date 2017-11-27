@@ -1,11 +1,11 @@
 {
     "goodList":[
-     {"id":1,"imgUrl":"NISSANsun.png","brand":"东风日产","title":"阳光1.5舒适版","guidePrice":"89800","firstPay1":"8980","monthPay1":"2398","firstPay3":"8980","monthPay3":"2398","pay1calc":"12500","pay3calc":"13000","shoufu":"0.89"},
-     {"id":2,"imgUrl":"K2.png","brand":"东风悦达起亚","title":"17款 K2 1.4三厢GLS AT","guidePrice":"88900","firstPay1":"9980","monthPay1":"2898","firstPay3":"9980","monthPay3":"2669","pay1calc":"12500","pay3calc":"13000","shoufu":"0.89"},
-     {"id":3,"imgUrl":"fute_furuisi.png","brand":"福特","title":"福睿斯1.5自动舒适版","guidePrice":"107800","firstPay1":"9980","monthPay1":"2498","firstPay3":"9980","monthPay3":"2798","pay1calc":"12500","pay3calc":"13000","shoufu":"0.89"},
-     {"id":4,"imgUrl":"xuanyi.png","brand":"东风日产","title":"经典轩逸1.6自动舒适版","guidePrice":"109800","firstPay1":"9980","monthPay1":"2498","firstPay3":"9980","monthPay3":"2798","pay1calc":"12500","pay3calc":"13000","shoufu":"0.89"},
-     {"id":5,"imgUrl":"K3.png","brand":"东风悦达起亚","title":"起亚K3自动GL天窗版","guidePrice":"109800","firstPay1":"9980","monthPay1":"2998","firstPay3":"9980","monthPay3":"2998","pay1calc":"12500","pay3calc":"13000","shoufu":"0.89"},
-     {"id":6,"imgUrl":"K2.png","brand":"东风日产","title":"经典轩逸1.6自动领先版","guidePrice":"112300","firstPay1":"10980","monthPay1":"2798","firstPay3":"10980","monthPay3":"2898","pay1calc":"12500","pay3calc":"13000","shoufu":"0.89"}
+     {"id":0,"imgUrl":"NISSANsun.png","brand":"东风日产","title":"阳光1.5舒适版","guidePrice":"89800","firstPay1":"8980","monthPay1":"2398","firstPay3":"8980","monthPay3":"2398","pay1calc":"12500","pay3calc":"13000","shoufu":"0.89"},
+     {"id":1,"imgUrl":"K2.png","brand":"东风悦达起亚","title":"17款 K2 1.4三厢GLS AT","guidePrice":"88900","firstPay1":"9980","monthPay1":"2898","firstPay3":"9980","monthPay3":"2669","pay1calc":"12500","pay3calc":"13000","shoufu":"0.89"},
+     {"id":2,"imgUrl":"fute_furuisi.png","brand":"福特","title":"福睿斯1.5自动舒适版","guidePrice":"107800","firstPay1":"9980","monthPay1":"2498","firstPay3":"9980","monthPay3":"2798","pay1calc":"12500","pay3calc":"13000","shoufu":"0.89"},
+     {"id":3,"imgUrl":"xuanyi.png","brand":"东风日产","title":"经典轩逸1.6自动舒适版","guidePrice":"109800","firstPay1":"9980","monthPay1":"2498","firstPay3":"9980","monthPay3":"2798","pay1calc":"12500","pay3calc":"13000","shoufu":"0.89"},
+     {"id":4,"imgUrl":"K3.png","brand":"东风悦达起亚","title":"起亚K3自动GL天窗版","guidePrice":"109800","firstPay1":"9980","monthPay1":"2998","firstPay3":"9980","monthPay3":"2998","pay1calc":"12500","pay3calc":"13000","shoufu":"0.89"},
+     {"id":5,"imgUrl":"K2.png","brand":"东风日产","title":"经典轩逸1.6自动领先版","guidePrice":"112300","firstPay1":"10980","monthPay1":"2798","firstPay3":"10980","monthPay3":"2898","pay1calc":"12500","pay3calc":"13000","shoufu":"0.89"}
     ]
    }
    
